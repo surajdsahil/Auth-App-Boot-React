@@ -152,8 +152,6 @@ auth-app-boot-react/
    mvn spring-boot:run
    ```
 
-📍 Backend runs on **http://localhost:8081**
-
 ---
 
 ## 💻 Frontend Setup (React + Vite)
